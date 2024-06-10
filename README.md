@@ -1,4 +1,5 @@
 # stripepayments_
+https://github.com/diegoleonardoro/stripepayments_/blob/main/payments.ts
 
 This TypeScript class is designed to handle payment processing using the Stripe API, specifically focusing on creating checkout sessions. 
 
